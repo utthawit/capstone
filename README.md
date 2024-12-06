@@ -3,9 +3,6 @@
 ## Problem Statement:
 Leveraging Satellite-Based Data for Daily Air Quality Forecasting in Major Thai Cities
 
-## Excusive Summary:
-This project aims to develop a robust and accurate air quality forecasting model for major cities in Thailand. By harnessing the power of satellite-derived data from 2024 data, we seek to improve the accuracy of air quality predictions. This will enable authorities and individuals to make informed decisions and take proactive measures to mitigate the adverse impacts of air pollution.
-
 ## Project Goal:
 To develop a robust and accurate air quality forecasting model leveraging satellite-derived hotspot data, meteorological parameters, and ground-level air quality measurements.
 
