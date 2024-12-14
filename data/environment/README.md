@@ -7,6 +7,6 @@ Because GitHub's free tier restricts file uploads to 100MB, these files, which e
 
 ---
 #### Note:
-These files will be automatically downloaded when you run the `02_preproc_environment` notebook."
+These files will be automatically downloaded when you run the `02_preproc_data` notebook."
 
 ---
